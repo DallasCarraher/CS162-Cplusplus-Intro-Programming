@@ -1,4 +1,0 @@
-//
-// hand.h header file
-//
-
