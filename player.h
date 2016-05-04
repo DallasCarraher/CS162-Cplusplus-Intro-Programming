@@ -1,3 +1,0 @@
-//
-// player.h header file
-//
