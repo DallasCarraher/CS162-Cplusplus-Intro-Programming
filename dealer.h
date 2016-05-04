@@ -1,3 +1,0 @@
-//
-// dealer.h header file
-//
