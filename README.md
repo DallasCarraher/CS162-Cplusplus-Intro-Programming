@@ -1,1 +1,1 @@
-# Cs 162 Assignment source code
+# CS 162 Assignments
